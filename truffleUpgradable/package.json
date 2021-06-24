@@ -1,0 +1,21 @@
+{
+  "name": "truffleUpgradable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/truffle-upgrades": "^1.5.2"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2"
+  }
+}

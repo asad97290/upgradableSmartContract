@@ -1,0 +1,4 @@
+(await box.totalSupply()).toString()
+const box = await Box.attach("0x980e415A0AA63Db25ba8a3746f3D422Bfa82F810")
+const box = await Box.attach("0xFF60fd044dDed0E40B813DC7CE11Bed2CCEa501F")
+ const Box = await ethers.getContractFactory("Box")

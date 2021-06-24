@@ -1,0 +1,5 @@
+truffleUpgradable/node_modules/
+truffleUpgradable/build/
+hardhatUpgradable/node_modules/
+hardhatUpgradable/build/
+
